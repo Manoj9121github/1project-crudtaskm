@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "5",
+      "name": "David Wilson",
+      "username": "davidw",
+      "email": "david.wilson@example.com",
+      "phone": "+91-98765-43210",
+      "website": "davidwilson.dev"
+    },
+    {
+      "id": "6",
+      "name": "Sophia Martinez",
+      "username": "sophiam",
+      "email": "sophia.martinez@example.com",
+      "phone": "+1-303-555-0192",
+      "website": "sophiamartinez.me"
+    },
+    {
+      "id": "7",
+      "name": "James Anderson",
+      "username": "jamesa",
+      "email": "james.anderson@example.com",
+      "phone": "+1-415-555-0145",
+      "website": "jamesanderson.info"
+    },
+    {
+      "id": "8",
+      "name": "Olivia Thomas",
+      "username": "oliviat",
+      "email": "olivia.thomas@example.com",
+      "phone": "+44-161-555-0123",
+      "website": "oliviathomas.co.uk"
+    },
+    {
+      "id": "9",
+      "name": "Daniel Harris",
+      "username": "danielh",
+      "email": "daniel.harris@example.com",
+      "phone": "+61-7-5555-0211",
+      "website": "danielharris.com.au"
+    },
+    {
+      "id": "10",
+      "name": "Ava Lee",
+      "username": "avalee",
+      "email": "ava.lee@example.com",
+      "phone": "+91-91234-56789",
+      "website": "avalee.io"
+    },
+    {
+      "id": "3b80",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1-202-555-0136"
+    }
+  ]
+}
